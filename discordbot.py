@@ -4,7 +4,7 @@ import datetime
 
 random.seed(datetime.datetime.now())
 
-TOKEN = 'NDUyMDA2ODg2MTA0MTA0OTcw.DfKJnA.f12P3WN8xeMHucrtlfanZiu972o'
+TOKEN = 'XXXXX'
 
 client = discord.Client()
 

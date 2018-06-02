@@ -1,13 +1,13 @@
 !_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
-!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
 !_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.9~svn20110310	//
-TOKEN	/home/sun/USF/discordbot.py	/^TOKEN = 'NDUyMDA2ODg2MTA0MTA0OTcw.DfKJnA.f12P3WN8xeMHucrtlfanZiu972o'$/;"	variable	line:7
-client	/home/sun/USF/discordbot.py	/^client = discord.Client()$/;"	variable	line:9
-is_pop	/home/sun/USF/discordbot.py	/^def is_pop(user):$/;"	function	line:11
-is_sam	/home/sun/USF/discordbot.py	/^def is_sam(user):$/;"	function	line:14
-forceproc	/home/sun/USF/discordbot.py	/^forceproc = False$/;"	variable	line:17
-on_message	/home/sun/USF/discordbot.py	/^async def on_message(message):$/;"	function	line:20
-on_ready	/home/sun/USF/discordbot.py	/^async def on_ready():$/;"	function	line:45
+TOKEN	discordbot.py	/^TOKEN = 'XXXXX'$/;"	v
+client	discordbot.py	/^client = discord.Client()$/;"	v
+forceproc	discordbot.py	/^forceproc = False$/;"	v
+is_pop	discordbot.py	/^def is_pop(user):$/;"	f
+is_sam	discordbot.py	/^def is_sam(user):$/;"	f
+on_message	discordbot.py	/^async def on_message(message):$/;"	f
+on_ready	discordbot.py	/^async def on_ready():$/;"	f
